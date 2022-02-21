@@ -1,6 +1,4 @@
-# Getting Started with Create React 
-
-![alt text](https://ibb.co/nRws0h9)
+# Getting Started with Create React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
