@@ -1,5 +1,7 @@
 # Getting Started with Create React
 
+![Twitter Clone](https://github.com/prajwalj27/data-apis/blob/main/images/Screenshot%202022-02-22%20005129.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
